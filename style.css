@@ -1,0 +1,46 @@
+
+	.header {width: 1100px; height: 89px; background: #000000; margin: 0 auto;}
+	ul {text-align: center; line-height: 30px;}
+	nav {float: center;}
+nav li {display: inline-block;}
+a {text-align: center; text-decoration: none; line-height: 58px; color: #E0E0E0; margin-right: 30px;}
+a:hover {background: #FF0000; padding: 33px;}
+	.wrapper {display: flex; flex-direction: column; align-items: flex-start; background: #F6F2F2; min-height: 1954px; flex-wrap: wrap; margin: 2vw;}
+	.main-article {width: 618px; height: auto; background: none; text-align: left; font-family: sans-serif; font-size: 60px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: 800; font-style: normal; padding: 55px; margin: 15px; margin-bottom: -10px;}
+	.article {width: 618px; height: auto; background: none; text-align: left; font-family: Times New Roman; font-size: 10px; letter-spacing: 1.5px; text-transform: uppercase; font-weight: normal; font-style: normal; margin-left: 65px; margin-bottom: -10px;}
+	.picture-menu {width: 485px; height: 359px; left: 540px; background: #d6d6d6; position: absolute; text-align: center; margin: 155px; margin: 13vw;}
+	.image {position: absolute; top: 55%; transform: translate(0, -50%); left: 15%; right: 15%;}
+	.container-2 {background: #FF2D2D; position: absolute; float: left; width: 230px; height: 58px; top: 478px; text-align: center; margin-left: 65px;}
+	.button a {font-family: Open Sans; font-style: normal; font-weight: bold; font-size: 18.0412px; line-height: 55px; letter-spacing: 0.3195px; color: #FFFFFF;}
+	.button a, .image a, .social a:hover {background: none; padding: 0px;}
+	.mail-form {display: flex; flex-direction: column; min-width: 900px; max-width: 100%; height: 350px; background: #2D2D2D; margin: 0 auto; margin-top: 300px;}
+	.article_1 {min-width: 1000px; max-width: 100%; height: auto; left: 40px; right: 150px; padding: 100px; position: absolute; font-family: Open Sans; font-style: normal; font-weight: bold; font-size: 42px; line-height: 24px; display: flex; align-items: center; text-align: center; letter-spacing: 1.05px; color: #FFFFFF;}
+	.form-group {width: 900px; padding: 230px; position: absolute; left: 50px;}
+	.sub-article {position: absolute; left: 250px; min-width: 573.85px; max-width: 100%; height: 25.56px; padding: 150px; font-family: Open Sans; font-style: normal; font-weight: normal; font-size: 15.9953px; line-height: 28px; display: flex; align-items: center; text-align: center; color: #FFFFFF;}
+button {width: 217px; height: 62px; background: #FF2D2D; font-family: Open Sans; font-style: normal; font-weight: bold; font-size: 17.9026px; line-height: 34px; letter-spacing: 0.317046px; text-transform: uppercase; color: #FFFFFF;}
+input {width: 450px; height: 62px; background: #FFFFFF;}
+.message-form {width: 328px; height: 60px; margin-top: 450px; margin-left: 80px; font-family: Open Sans; font-style: normal; font-weight: bold; font-size: 41.9876px; line-height: 55px; padding: 10px; align-items: center; letter-spacing: 0.3834px; text-transform: uppercase; color: #000000; /*background: #FF2D2D;*/}
+.message-form2 {position: absolute; width: 710px; height: 73px;
+left: 95px; margin-top: 10px; font-family: Open Sans; font-style: normal; font-weight: normal; font-size: 15.9953px; line-height: 28px; align-items: center; color: #000000; background: #F6F2F2;}
+.reply-form {min-width: 700px; max-width: 100%; height: auto; flex direction: column; margin-top: 170px; position: absolute;}
+input[type="name2"] {width: 342px; height: 71px; background: #D3D3D3;
+font-family: Open Sans; font-style: normal; font-weight: normal; font-size: 15.9134px; line-height: 28px; color: #000000; border: none;}
+input[type="mail"] {width: 340px; height: 71px; background: #D3D3D3; font-family: Open Sans; font-style: normal; font-weight: normal; font-size: 15.9134px; line-height: 28px; color: #000000; border: none;}
+input[type="message"] {width: 690px; height: 300px; margin-top: 10px; background: #D3D3D3; font-family: Open Sans; font-style: normal; font-weight: normal; font-size: 15.9134px; line-height: 28px; color: #000000; border: none;}
+button[type="submit1"] {width: 694px; height: 75px; margin-top: 10px;}
+.contact-info {width: 259px; height: 360px; margin-left: 730px; margin-top: 170px; background: #000000; position: absolute; font-family: Open Sans; font-style: normal; font-weight: bold; font-size: 17.9026px; line-height: 34px; display: flex; align-items: center; letter-spacing: 0.317046px; text-transform: uppercase; color: #FFFFFF; padding: 55px;}
+	.footer {display: flex; width: 1100px; height: 70px; background: #000000; position: relative; margin-top: 700px;}
+	.text {width: 300px; font-family: Times New Roman; font-size: 12px; color: #D3D3D3; padding: 40px; margin-left: 55px;}
+	.social {width: 300px; height: auto; margin: 0 auto;}
+	.links ul {align-items: center;}
+	@media screen and (min-width: 350px; max-width: 700px) {.wrapper, .picture-menu, .image, .contact-info;}
+	@media (min-width: 350px) {.wrapper {max-width: 1200px;}
+	@media (min-width: 350px) {.main-article {max-width: 618px;}
+	@media (min-width: 350px) {.header {max-width: 1100px;}
+	
+	
+
+
+
+
+    
